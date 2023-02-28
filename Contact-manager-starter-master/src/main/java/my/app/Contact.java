@@ -1,4 +1,4 @@
-package com.programming.techie;
+package my.app;
 
 public class Contact {
     private String firstName;
@@ -17,6 +17,10 @@ public class Contact {
 
     public String getLastName() {
         return lastName;
+    }
+
+    public String getPhoneNumber() {
+        return phoneNumber;
     }
 
     public void validateFirstName() {

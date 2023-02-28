@@ -1,4 +1,4 @@
-package com.programming.techie;
+package my.app;
 
 import java.util.Collection;
 import java.util.Map;
