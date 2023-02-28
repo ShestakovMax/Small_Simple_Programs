@@ -48,6 +48,7 @@ public class Main {
             instructions();
             Scanner in = new Scanner(System.in);
             int choice = in.nextInt();
+
             while (choice != 0){
                 switch (choice) {
                     case 1 -> queue.push(insert());
